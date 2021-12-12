@@ -85,21 +85,6 @@ def index():
     return render_template('index.html', title='Inicio')
 
 
-"""
-@pagina.route('/login', methods=['GET','POST'])
-def login():
-    form = LoginForm(request.form)
-    if request.method =='POST':
-        # se imprime los datos
-        print(form.username.data)
-        print(form.password.data)
-        # se imprime en consola
-        print("¡Una Nueva secion creada!")
-
-    return render_template('auth/login.html', title='Login',form=form)
-"""
-
-
 @pagina.route('/algoritmoApriori', methods=['POST'])
 def read_csv():
     if request.method == 'POST':
@@ -742,26 +727,6 @@ def read_csv4():
         #imprime la ultima tabla
         json_data2 = tabla2.head(10).to_json(orient='records')
 
-
-# # Gráfica de los elementos y los centros de los clusters
-
-#     plt.rcParams['figure.figsize'] = (10, 7)
-#     plt.style.use('ggplot')
-#     colores=['red', 'blue', 'green', 'yellow']
-#     asignar=[]
-#     for row in MParticional.labels_:
-#         asignar.append(colores[row])
-
-#     fig = plt.figure()
-#     ax = Axes3D(fig)
-#     ax.scatter(MEstandarizada[:, 0],
-#             MEstandarizada[:, 1],
-#             MEstandarizada[:, 2], marker='o', c=asignar, s=60)
-#     ax.scatter(MParticional.cluster_centers_[:, 0],
-#             MParticional.cluster_centers_[:, 1],
-#             MParticional.cluster_centers_[:, 2], marker='o', c=colores, s=1000)
-#     plt.show()
-
         # Retorna imagen en base64
         return jsonify({'status': 'success', 'data': json_data3, 'graph': imginicio, 'graph2': imgdisp,'graph3': calor})
 
@@ -1334,13 +1299,6 @@ def read_csv6():
                                                                               shuffle = True)
 
 
-#DATOS QUE SE PIDEN EN INPUT  -------------->>>>>
-# pd.DataFrame(X_train)
-# #pd.DataFrame(X_test)
-
-# pd.DataFrame(Y_train)
-# #pd.DataFrame(Y_test)
-
 # #Se entrena el modelo a través de un Árbol de Decisión (Regresión)
 
         PronosticoAD = DecisionTreeRegressor()
@@ -1678,11 +1636,6 @@ def read_csv7():
         
 
 # #### **6) Eficiencia y conformación del modelo de clasificación**
-
-
-# #!pip install graphviz
-# import graphviz
-# from sklearn.tree import export_graphviz
 
 # # Se crea un objeto para visualizar el árbol
         Elementos = export_graphviz(ClasificacionAD,
