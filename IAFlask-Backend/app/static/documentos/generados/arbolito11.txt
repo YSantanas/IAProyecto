@@ -1,0 +1,1183 @@
+|--- Perimeter <= 110.60
+|   |--- Perimeter <= 84.01
+|   |   |--- Perimeter <= 70.18
+|   |   |   |--- Perimeter <= 60.40
+|   |   |   |   |--- Perimeter <= 53.68
+|   |   |   |   |   |--- Perimeter <= 45.85
+|   |   |   |   |   |   |--- value: [143.50]
+|   |   |   |   |   |--- Perimeter >  45.85
+|   |   |   |   |   |   |--- Texture <= 22.62
+|   |   |   |   |   |   |   |--- Smoothness <= 0.09
+|   |   |   |   |   |   |   |   |--- value: [201.90]
+|   |   |   |   |   |   |   |--- Smoothness >  0.09
+|   |   |   |   |   |   |   |   |--- value: [203.90]
+|   |   |   |   |   |   |--- Texture >  22.62
+|   |   |   |   |   |   |   |--- Compactness <= 0.08
+|   |   |   |   |   |   |   |   |--- FractalDimension <= 0.07
+|   |   |   |   |   |   |   |   |   |--- value: [181.00]
+|   |   |   |   |   |   |   |   |--- FractalDimension >  0.07
+|   |   |   |   |   |   |   |   |   |--- value: [178.80]
+|   |   |   |   |   |   |   |--- Compactness >  0.08
+|   |   |   |   |   |   |   |   |--- value: [170.40]
+|   |   |   |   |--- Perimeter >  53.68
+|   |   |   |   |   |--- Perimeter <= 56.10
+|   |   |   |   |   |   |--- Texture <= 17.72
+|   |   |   |   |   |   |   |--- Perimeter <= 54.84
+|   |   |   |   |   |   |   |   |--- value: [227.20]
+|   |   |   |   |   |   |   |--- Perimeter >  54.84
+|   |   |   |   |   |   |   |   |--- Compactness <= 0.08
+|   |   |   |   |   |   |   |   |   |--- value: [234.30]
+|   |   |   |   |   |   |   |   |--- Compactness >  0.08
+|   |   |   |   |   |   |   |   |   |--- value: [230.90]
+|   |   |   |   |   |   |--- Texture >  17.72
+|   |   |   |   |   |   |   |--- Perimeter <= 54.38
+|   |   |   |   |   |   |   |   |--- value: [221.20]
+|   |   |   |   |   |   |   |--- Perimeter >  54.38
+|   |   |   |   |   |   |   |   |--- value: [221.80]
+|   |   |   |   |   |--- Perimeter >  56.10
+|   |   |   |   |   |   |--- Compactness <= 0.12
+|   |   |   |   |   |   |   |--- Symmetry <= 0.18
+|   |   |   |   |   |   |   |   |--- Smoothness <= 0.10
+|   |   |   |   |   |   |   |   |   |--- Smoothness <= 0.09
+|   |   |   |   |   |   |   |   |   |   |--- value: [271.30]
+|   |   |   |   |   |   |   |   |   |--- Smoothness >  0.09
+|   |   |   |   |   |   |   |   |   |   |--- value: [264.00]
+|   |   |   |   |   |   |   |   |--- Smoothness >  0.10
+|   |   |   |   |   |   |   |   |   |--- value: [278.60]
+|   |   |   |   |   |   |   |--- Symmetry >  0.18
+|   |   |   |   |   |   |   |   |--- Smoothness <= 0.07
+|   |   |   |   |   |   |   |   |   |--- value: [246.30]
+|   |   |   |   |   |   |   |   |--- Smoothness >  0.07
+|   |   |   |   |   |   |   |   |   |--- Compactness <= 0.11
+|   |   |   |   |   |   |   |   |   |   |--- value: [260.90]
+|   |   |   |   |   |   |   |   |   |--- Compactness >  0.11
+|   |   |   |   |   |   |   |   |   |   |--- value: [257.80]
+|   |   |   |   |   |   |--- Compactness >  0.12
+|   |   |   |   |   |   |   |--- Smoothness <= 0.10
+|   |   |   |   |   |   |   |   |--- Compactness <= 0.16
+|   |   |   |   |   |   |   |   |   |--- value: [245.20]
+|   |   |   |   |   |   |   |   |--- Compactness >  0.16
+|   |   |   |   |   |   |   |   |   |--- value: [244.50]
+|   |   |   |   |   |   |   |--- Smoothness >  0.10
+|   |   |   |   |   |   |   |   |--- value: [250.50]
+|   |   |   |--- Perimeter >  60.40
+|   |   |   |   |--- Perimeter <= 64.89
+|   |   |   |   |   |--- Perimeter <= 64.27
+|   |   |   |   |   |   |--- Compactness <= 0.19
+|   |   |   |   |   |   |   |--- Perimeter <= 62.71
+|   |   |   |   |   |   |   |   |--- FractalDimension <= 0.07
+|   |   |   |   |   |   |   |   |   |--- Symmetry <= 0.15
+|   |   |   |   |   |   |   |   |   |   |--- value: [294.50]
+|   |   |   |   |   |   |   |   |   |--- Symmetry >  0.15
+|   |   |   |   |   |   |   |   |   |   |--- Symmetry <= 0.16
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [285.70]
+|   |   |   |   |   |   |   |   |   |   |--- Symmetry >  0.16
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 5
+|   |   |   |   |   |   |   |   |--- FractalDimension >  0.07
+|   |   |   |   |   |   |   |   |   |--- value: [280.50]
+|   |   |   |   |   |   |   |--- Perimeter >  62.71
+|   |   |   |   |   |   |   |   |--- Compactness <= 0.06
+|   |   |   |   |   |   |   |   |   |--- value: [307.30]
+|   |   |   |   |   |   |   |   |--- Compactness >  0.06
+|   |   |   |   |   |   |   |   |   |--- Perimeter <= 63.35
+|   |   |   |   |   |   |   |   |   |   |--- value: [295.40]
+|   |   |   |   |   |   |   |   |   |--- Perimeter >  63.35
+|   |   |   |   |   |   |   |   |   |   |--- Texture <= 17.37
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [300.20]
+|   |   |   |   |   |   |   |   |   |   |--- Texture >  17.37
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [298.30]
+|   |   |   |   |   |   |--- Compactness >  0.19
+|   |   |   |   |   |   |   |--- value: [272.50]
+|   |   |   |   |   |--- Perimeter >  64.27
+|   |   |   |   |   |   |--- Symmetry <= 0.17
+|   |   |   |   |   |   |   |--- value: [302.40]
+|   |   |   |   |   |   |--- Symmetry >  0.17
+|   |   |   |   |   |   |   |--- Perimeter <= 64.48
+|   |   |   |   |   |   |   |   |--- value: [310.80]
+|   |   |   |   |   |   |   |--- Perimeter >  64.48
+|   |   |   |   |   |   |   |   |--- Compactness <= 0.08
+|   |   |   |   |   |   |   |   |   |--- value: [311.70]
+|   |   |   |   |   |   |   |   |--- Compactness >  0.08
+|   |   |   |   |   |   |   |   |   |--- value: [311.90]
+|   |   |   |   |--- Perimeter >  64.89
+|   |   |   |   |   |--- Perimeter <= 66.62
+|   |   |   |   |   |   |--- Compactness <= 0.05
+|   |   |   |   |   |   |   |--- value: [324.90]
+|   |   |   |   |   |   |--- Compactness >  0.05
+|   |   |   |   |   |   |   |--- Perimeter <= 66.36
+|   |   |   |   |   |   |   |   |--- Texture <= 16.09
+|   |   |   |   |   |   |   |   |   |--- value: [321.60]
+|   |   |   |   |   |   |   |   |--- Texture >  16.09
+|   |   |   |   |   |   |   |   |   |--- Symmetry <= 0.18
+|   |   |   |   |   |   |   |   |   |   |--- value: [321.40]
+|   |   |   |   |   |   |   |   |   |--- Symmetry >  0.18
+|   |   |   |   |   |   |   |   |   |   |--- value: [321.20]
+|   |   |   |   |   |   |   |--- Perimeter >  66.36
+|   |   |   |   |   |   |   |   |--- value: [324.20]
+|   |   |   |   |   |--- Perimeter >  66.62
+|   |   |   |   |   |   |--- Texture <= 20.93
+|   |   |   |   |   |   |   |--- Texture <= 14.97
+|   |   |   |   |   |   |   |   |--- value: [355.30]
+|   |   |   |   |   |   |   |--- Texture >  14.97
+|   |   |   |   |   |   |   |   |--- Compactness <= 0.04
+|   |   |   |   |   |   |   |   |   |--- value: [349.60]
+|   |   |   |   |   |   |   |   |--- Compactness >  0.04
+|   |   |   |   |   |   |   |   |   |--- Compactness <= 0.11
+|   |   |   |   |   |   |   |   |   |   |--- Perimeter <= 66.84
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |   |--- Perimeter >  66.84
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |--- Compactness >  0.11
+|   |   |   |   |   |   |   |   |   |   |--- Smoothness <= 0.09
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [338.30]
+|   |   |   |   |   |   |   |   |   |   |--- Smoothness >  0.09
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |--- Texture >  20.93
+|   |   |   |   |   |   |   |--- FractalDimension <= 0.06
+|   |   |   |   |   |   |   |   |--- Perimeter <= 68.65
+|   |   |   |   |   |   |   |   |   |--- value: [360.50]
+|   |   |   |   |   |   |   |   |--- Perimeter >  68.65
+|   |   |   |   |   |   |   |   |   |--- value: [359.90]
+|   |   |   |   |   |   |   |--- FractalDimension >  0.06
+|   |   |   |   |   |   |   |   |--- value: [361.60]
+|   |   |--- Perimeter >  70.18
+|   |   |   |--- Perimeter <= 78.15
+|   |   |   |   |--- Perimeter <= 74.22
+|   |   |   |   |   |--- Perimeter <= 73.32
+|   |   |   |   |   |   |--- FractalDimension <= 0.07
+|   |   |   |   |   |   |   |--- Perimeter <= 71.34
+|   |   |   |   |   |   |   |   |--- Perimeter <= 70.57
+|   |   |   |   |   |   |   |   |   |--- Smoothness <= 0.08
+|   |   |   |   |   |   |   |   |   |   |--- value: [378.20]
+|   |   |   |   |   |   |   |   |   |--- Smoothness >  0.08
+|   |   |   |   |   |   |   |   |   |   |--- value: [381.10]
+|   |   |   |   |   |   |   |   |--- Perimeter >  70.57
+|   |   |   |   |   |   |   |   |   |--- Smoothness <= 0.09
+|   |   |   |   |   |   |   |   |   |   |--- Smoothness <= 0.08
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |   |--- Smoothness >  0.08
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |--- Smoothness >  0.09
+|   |   |   |   |   |   |   |   |   |   |--- Smoothness <= 0.10
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [381.90]
+|   |   |   |   |   |   |   |   |   |   |--- Smoothness >  0.10
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [380.30]
+|   |   |   |   |   |   |   |--- Perimeter >  71.34
+|   |   |   |   |   |   |   |   |--- Smoothness <= 0.10
+|   |   |   |   |   |   |   |   |   |--- Perimeter <= 72.49
+|   |   |   |   |   |   |   |   |   |   |--- Perimeter <= 71.58
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [390.00]
+|   |   |   |   |   |   |   |   |   |   |--- Perimeter >  71.58
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |--- Perimeter >  72.49
+|   |   |   |   |   |   |   |   |   |   |--- Perimeter <= 73.17
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |   |--- Perimeter >  73.17
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [407.40]
+|   |   |   |   |   |   |   |   |--- Smoothness >  0.10
+|   |   |   |   |   |   |   |   |   |--- Smoothness <= 0.11
+|   |   |   |   |   |   |   |   |   |   |--- Smoothness <= 0.10
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [388.00]
+|   |   |   |   |   |   |   |   |   |   |--- Smoothness >  0.10
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [387.30]
+|   |   |   |   |   |   |   |   |   |--- Smoothness >  0.11
+|   |   |   |   |   |   |   |   |   |   |--- value: [384.80]
+|   |   |   |   |   |   |--- FractalDimension >  0.07
+|   |   |   |   |   |   |   |--- Texture <= 13.84
+|   |   |   |   |   |   |   |   |--- value: [386.30]
+|   |   |   |   |   |   |   |--- Texture >  13.84
+|   |   |   |   |   |   |   |   |--- FractalDimension <= 0.07
+|   |   |   |   |   |   |   |   |   |--- Symmetry <= 0.20
+|   |   |   |   |   |   |   |   |   |   |--- Texture <= 16.08
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |   |--- Texture >  16.08
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |--- Symmetry >  0.20
+|   |   |   |   |   |   |   |   |   |   |--- value: [378.40]
+|   |   |   |   |   |   |   |   |--- FractalDimension >  0.07
+|   |   |   |   |   |   |   |   |   |--- Texture <= 17.98
+|   |   |   |   |   |   |   |   |   |   |--- value: [366.50]
+|   |   |   |   |   |   |   |   |   |--- Texture >  17.98
+|   |   |   |   |   |   |   |   |   |   |--- value: [361.60]
+|   |   |   |   |   |--- Perimeter >  73.32
+|   |   |   |   |   |   |--- Compactness <= 0.09
+|   |   |   |   |   |   |   |--- Smoothness <= 0.09
+|   |   |   |   |   |   |   |   |--- FractalDimension <= 0.06
+|   |   |   |   |   |   |   |   |   |--- value: [421.00]
+|   |   |   |   |   |   |   |   |--- FractalDimension >  0.06
+|   |   |   |   |   |   |   |   |   |--- value: [412.70]
+|   |   |   |   |   |   |   |--- Smoothness >  0.09
+|   |   |   |   |   |   |   |   |--- Symmetry <= 0.18
+|   |   |   |   |   |   |   |   |   |--- Symmetry <= 0.17
+|   |   |   |   |   |   |   |   |   |   |--- Texture <= 12.87
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [403.30]
+|   |   |   |   |   |   |   |   |   |   |--- Texture >  12.87
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [402.00]
+|   |   |   |   |   |   |   |   |   |--- Symmetry >  0.17
+|   |   |   |   |   |   |   |   |   |   |--- value: [404.90]
+|   |   |   |   |   |   |   |   |--- Symmetry >  0.18
+|   |   |   |   |   |   |   |   |   |--- Smoothness <= 0.10
+|   |   |   |   |   |   |   |   |   |   |--- Perimeter <= 73.97
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |   |--- Perimeter >  73.97
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [409.70]
+|   |   |   |   |   |   |   |   |   |--- Smoothness >  0.10
+|   |   |   |   |   |   |   |   |   |   |--- value: [406.30]
+|   |   |   |   |   |   |--- Compactness >  0.09
+|   |   |   |   |   |   |   |--- Compactness <= 0.11
+|   |   |   |   |   |   |   |   |--- Smoothness <= 0.11
+|   |   |   |   |   |   |   |   |   |--- value: [398.00]
+|   |   |   |   |   |   |   |   |--- Smoothness >  0.11
+|   |   |   |   |   |   |   |   |   |--- value: [401.50]
+|   |   |   |   |   |   |   |--- Compactness >  0.11
+|   |   |   |   |   |   |   |   |--- Compactness <= 0.13
+|   |   |   |   |   |   |   |   |   |--- value: [394.10]
+|   |   |   |   |   |   |   |   |--- Compactness >  0.13
+|   |   |   |   |   |   |   |   |   |--- value: [389.40]
+|   |   |   |   |--- Perimeter >  74.22
+|   |   |   |   |   |--- Perimeter <= 76.38
+|   |   |   |   |   |   |--- FractalDimension <= 0.06
+|   |   |   |   |   |   |   |--- Perimeter <= 75.53
+|   |   |   |   |   |   |   |   |--- Smoothness <= 0.08
+|   |   |   |   |   |   |   |   |   |--- value: [417.20]
+|   |   |   |   |   |   |   |   |--- Smoothness >  0.08
+|   |   |   |   |   |   |   |   |   |--- Symmetry <= 0.14
+|   |   |   |   |   |   |   |   |   |   |--- value: [423.60]
+|   |   |   |   |   |   |   |   |   |--- Symmetry >  0.14
+|   |   |   |   |   |   |   |   |   |   |--- Smoothness <= 0.09
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |   |--- Smoothness >  0.09
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |--- Perimeter >  75.53
+|   |   |   |   |   |   |   |   |--- Symmetry <= 0.17
+|   |   |   |   |   |   |   |   |   |--- value: [442.70]
+|   |   |   |   |   |   |   |   |--- Symmetry >  0.17
+|   |   |   |   |   |   |   |   |   |--- FractalDimension <= 0.06
+|   |   |   |   |   |   |   |   |   |   |--- value: [432.70]
+|   |   |   |   |   |   |   |   |   |--- FractalDimension >  0.06
+|   |   |   |   |   |   |   |   |   |   |--- Symmetry <= 0.19
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [437.60]
+|   |   |   |   |   |   |   |   |   |   |--- Symmetry >  0.19
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [435.60]
+|   |   |   |   |   |   |--- FractalDimension >  0.06
+|   |   |   |   |   |   |   |--- Compactness <= 0.10
+|   |   |   |   |   |   |   |   |--- Perimeter <= 74.95
+|   |   |   |   |   |   |   |   |   |--- Symmetry <= 0.19
+|   |   |   |   |   |   |   |   |   |   |--- Texture <= 21.07
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [412.60]
+|   |   |   |   |   |   |   |   |   |   |--- Texture >  21.07
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [415.10]
+|   |   |   |   |   |   |   |   |   |--- Symmetry >  0.19
+|   |   |   |   |   |   |   |   |   |   |--- value: [418.70]
+|   |   |   |   |   |   |   |   |--- Perimeter >  74.95
+|   |   |   |   |   |   |   |   |   |--- Perimeter <= 76.10
+|   |   |   |   |   |   |   |   |   |   |--- Symmetry <= 0.17
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [422.90]
+|   |   |   |   |   |   |   |   |   |   |--- Symmetry >  0.17
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |--- Perimeter >  76.10
+|   |   |   |   |   |   |   |   |   |   |--- value: [426.00]
+|   |   |   |   |   |   |   |--- Compactness >  0.10
+|   |   |   |   |   |   |   |   |--- Perimeter <= 74.91
+|   |   |   |   |   |   |   |   |   |--- Symmetry <= 0.16
+|   |   |   |   |   |   |   |   |   |   |--- value: [403.50]
+|   |   |   |   |   |   |   |   |   |--- Symmetry >  0.16
+|   |   |   |   |   |   |   |   |   |   |--- value: [402.90]
+|   |   |   |   |   |   |   |   |--- Perimeter >  74.91
+|   |   |   |   |   |   |   |   |   |--- Compactness <= 0.11
+|   |   |   |   |   |   |   |   |   |   |--- value: [412.50]
+|   |   |   |   |   |   |   |   |   |--- Compactness >  0.11
+|   |   |   |   |   |   |   |   |   |   |--- FractalDimension <= 0.07
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |   |--- FractalDimension >  0.07
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [406.40]
+|   |   |   |   |   |--- Perimeter >  76.38
+|   |   |   |   |   |   |--- Smoothness <= 0.13
+|   |   |   |   |   |   |   |--- Compactness <= 0.05
+|   |   |   |   |   |   |   |   |--- Perimeter <= 77.33
+|   |   |   |   |   |   |   |   |   |--- Symmetry <= 0.17
+|   |   |   |   |   |   |   |   |   |   |--- value: [461.40]
+|   |   |   |   |   |   |   |   |   |--- Symmetry >  0.17
+|   |   |   |   |   |   |   |   |   |   |--- value: [458.70]
+|   |   |   |   |   |   |   |   |--- Perimeter >  77.33
+|   |   |   |   |   |   |   |   |   |--- FractalDimension <= 0.06
+|   |   |   |   |   |   |   |   |   |   |--- value: [464.40]
+|   |   |   |   |   |   |   |   |   |--- FractalDimension >  0.06
+|   |   |   |   |   |   |   |   |   |   |--- value: [465.40]
+|   |   |   |   |   |   |   |--- Compactness >  0.05
+|   |   |   |   |   |   |   |   |--- Compactness <= 0.10
+|   |   |   |   |   |   |   |   |   |--- Texture <= 19.83
+|   |   |   |   |   |   |   |   |   |   |--- Compactness <= 0.07
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 4
+|   |   |   |   |   |   |   |   |   |   |--- Compactness >  0.07
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |--- Texture >  19.83
+|   |   |   |   |   |   |   |   |   |   |--- Symmetry <= 0.19
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 4
+|   |   |   |   |   |   |   |   |   |   |--- Symmetry >  0.19
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [433.80]
+|   |   |   |   |   |   |   |   |--- Compactness >  0.10
+|   |   |   |   |   |   |   |   |   |--- Symmetry <= 0.21
+|   |   |   |   |   |   |   |   |   |   |--- Compactness <= 0.12
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |   |--- Compactness >  0.12
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [432.80]
+|   |   |   |   |   |   |   |   |   |--- Symmetry >  0.21
+|   |   |   |   |   |   |   |   |   |   |--- value: [440.60]
+|   |   |   |   |   |   |--- Smoothness >  0.13
+|   |   |   |   |   |   |   |--- value: [386.10]
+|   |   |   |--- Perimeter >  78.15
+|   |   |   |   |--- Perimeter <= 81.27
+|   |   |   |   |   |--- Perimeter <= 79.81
+|   |   |   |   |   |   |--- Compactness <= 0.07
+|   |   |   |   |   |   |   |--- Compactness <= 0.04
+|   |   |   |   |   |   |   |   |--- Smoothness <= 0.08
+|   |   |   |   |   |   |   |   |   |--- value: [477.30]
+|   |   |   |   |   |   |   |   |--- Smoothness >  0.08
+|   |   |   |   |   |   |   |   |   |--- value: [476.50]
+|   |   |   |   |   |   |   |--- Compactness >  0.04
+|   |   |   |   |   |   |   |   |--- FractalDimension <= 0.06
+|   |   |   |   |   |   |   |   |   |--- Symmetry <= 0.18
+|   |   |   |   |   |   |   |   |   |   |--- Texture <= 17.53
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |   |--- Texture >  17.53
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |--- Symmetry >  0.18
+|   |   |   |   |   |   |   |   |   |   |--- Symmetry <= 0.20
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [464.10]
+|   |   |   |   |   |   |   |   |   |   |--- Symmetry >  0.20
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [466.10]
+|   |   |   |   |   |   |   |   |--- FractalDimension >  0.06
+|   |   |   |   |   |   |   |   |   |--- value: [460.30]
+|   |   |   |   |   |   |--- Compactness >  0.07
+|   |   |   |   |   |   |   |--- Smoothness <= 0.09
+|   |   |   |   |   |   |   |   |--- Smoothness <= 0.08
+|   |   |   |   |   |   |   |   |   |--- value: [462.00]
+|   |   |   |   |   |   |   |   |--- Smoothness >  0.08
+|   |   |   |   |   |   |   |   |   |--- value: [466.10]
+|   |   |   |   |   |   |   |--- Smoothness >  0.09
+|   |   |   |   |   |   |   |   |--- Compactness <= 0.08
+|   |   |   |   |   |   |   |   |   |--- value: [458.40]
+|   |   |   |   |   |   |   |   |--- Compactness >  0.08
+|   |   |   |   |   |   |   |   |   |--- FractalDimension <= 0.07
+|   |   |   |   |   |   |   |   |   |   |--- Perimeter <= 78.69
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [455.30]
+|   |   |   |   |   |   |   |   |   |   |--- Perimeter >  78.69
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [455.80]
+|   |   |   |   |   |   |   |   |   |--- FractalDimension >  0.07
+|   |   |   |   |   |   |   |   |   |   |--- value: [453.10]
+|   |   |   |   |   |--- Perimeter >  79.81
+|   |   |   |   |   |   |--- FractalDimension <= 0.06
+|   |   |   |   |   |   |   |--- Perimeter <= 80.53
+|   |   |   |   |   |   |   |   |--- Compactness <= 0.06
+|   |   |   |   |   |   |   |   |   |--- value: [489.00]
+|   |   |   |   |   |   |   |   |--- Compactness >  0.06
+|   |   |   |   |   |   |   |   |   |--- value: [480.10]
+|   |   |   |   |   |   |   |--- Perimeter >  80.53
+|   |   |   |   |   |   |   |   |--- FractalDimension <= 0.06
+|   |   |   |   |   |   |   |   |   |--- value: [501.30]
+|   |   |   |   |   |   |   |   |--- FractalDimension >  0.06
+|   |   |   |   |   |   |   |   |   |--- Perimeter <= 81.06
+|   |   |   |   |   |   |   |   |   |   |--- FractalDimension <= 0.06
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [492.90]
+|   |   |   |   |   |   |   |   |   |   |--- FractalDimension >  0.06
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [495.00]
+|   |   |   |   |   |   |   |   |   |--- Perimeter >  81.06
+|   |   |   |   |   |   |   |   |   |   |--- value: [489.90]
+|   |   |   |   |   |   |--- FractalDimension >  0.06
+|   |   |   |   |   |   |   |--- Symmetry <= 0.19
+|   |   |   |   |   |   |   |   |--- value: [462.90]
+|   |   |   |   |   |   |   |--- Symmetry >  0.19
+|   |   |   |   |   |   |   |   |--- FractalDimension <= 0.06
+|   |   |   |   |   |   |   |   |   |--- value: [481.90]
+|   |   |   |   |   |   |   |   |--- FractalDimension >  0.06
+|   |   |   |   |   |   |   |   |   |--- Compactness <= 0.12
+|   |   |   |   |   |   |   |   |   |   |--- value: [476.30]
+|   |   |   |   |   |   |   |   |   |--- Compactness >  0.12
+|   |   |   |   |   |   |   |   |   |   |--- value: [477.40]
+|   |   |   |   |--- Perimeter >  81.27
+|   |   |   |   |   |--- Compactness <= 0.10
+|   |   |   |   |   |   |--- FractalDimension <= 0.06
+|   |   |   |   |   |   |   |--- Texture <= 23.67
+|   |   |   |   |   |   |   |   |--- FractalDimension <= 0.06
+|   |   |   |   |   |   |   |   |   |--- Symmetry <= 0.16
+|   |   |   |   |   |   |   |   |   |   |--- value: [526.40]
+|   |   |   |   |   |   |   |   |   |--- Symmetry >  0.16
+|   |   |   |   |   |   |   |   |   |   |--- value: [527.20]
+|   |   |   |   |   |   |   |   |--- FractalDimension >  0.06
+|   |   |   |   |   |   |   |   |   |--- value: [530.60]
+|   |   |   |   |   |   |   |--- Texture >  23.67
+|   |   |   |   |   |   |   |   |--- value: [520.20]
+|   |   |   |   |   |   |--- FractalDimension >  0.06
+|   |   |   |   |   |   |   |--- Perimeter <= 81.88
+|   |   |   |   |   |   |   |   |--- Compactness <= 0.07
+|   |   |   |   |   |   |   |   |   |--- Symmetry <= 0.16
+|   |   |   |   |   |   |   |   |   |   |--- FractalDimension <= 0.06
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [507.90]
+|   |   |   |   |   |   |   |   |   |   |--- FractalDimension >  0.06
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [508.80]
+|   |   |   |   |   |   |   |   |   |--- Symmetry >  0.16
+|   |   |   |   |   |   |   |   |   |   |--- value: [506.30]
+|   |   |   |   |   |   |   |   |--- Compactness >  0.07
+|   |   |   |   |   |   |   |   |   |--- Smoothness <= 0.10
+|   |   |   |   |   |   |   |   |   |   |--- value: [492.10]
+|   |   |   |   |   |   |   |   |   |--- Smoothness >  0.10
+|   |   |   |   |   |   |   |   |   |   |--- value: [496.60]
+|   |   |   |   |   |   |   |--- Perimeter >  81.88
+|   |   |   |   |   |   |   |   |--- Compactness <= 0.08
+|   |   |   |   |   |   |   |   |   |--- Perimeter <= 82.57
+|   |   |   |   |   |   |   |   |   |   |--- FractalDimension <= 0.06
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |   |--- FractalDimension >  0.06
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [507.40]
+|   |   |   |   |   |   |   |   |   |--- Perimeter >  82.57
+|   |   |   |   |   |   |   |   |   |   |--- Compactness <= 0.06
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [523.80]
+|   |   |   |   |   |   |   |   |   |   |--- Compactness >  0.06
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [519.40]
+|   |   |   |   |   |   |   |   |--- Compactness >  0.08
+|   |   |   |   |   |   |   |   |   |--- Texture <= 15.82
+|   |   |   |   |   |   |   |   |   |   |--- Symmetry <= 0.17
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |   |--- Symmetry >  0.17
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [506.90]
+|   |   |   |   |   |   |   |   |   |--- Texture >  15.82
+|   |   |   |   |   |   |   |   |   |   |--- FractalDimension <= 0.06
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |   |--- FractalDimension >  0.06
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 4
+|   |   |   |   |   |--- Compactness >  0.10
+|   |   |   |   |   |   |--- FractalDimension <= 0.07
+|   |   |   |   |   |   |   |--- Smoothness <= 0.11
+|   |   |   |   |   |   |   |   |--- Symmetry <= 0.16
+|   |   |   |   |   |   |   |   |   |--- value: [485.80]
+|   |   |   |   |   |   |   |   |--- Symmetry >  0.16
+|   |   |   |   |   |   |   |   |   |--- value: [485.60]
+|   |   |   |   |   |   |   |--- Smoothness >  0.11
+|   |   |   |   |   |   |   |   |--- value: [499.00]
+|   |   |   |   |   |   |--- FractalDimension >  0.07
+|   |   |   |   |   |   |   |--- Perimeter <= 81.81
+|   |   |   |   |   |   |   |   |--- value: [467.80]
+|   |   |   |   |   |   |   |--- Perimeter >  81.81
+|   |   |   |   |   |   |   |   |--- FractalDimension <= 0.07
+|   |   |   |   |   |   |   |   |   |--- value: [480.40]
+|   |   |   |   |   |   |   |   |--- FractalDimension >  0.07
+|   |   |   |   |   |   |   |   |   |--- FractalDimension <= 0.08
+|   |   |   |   |   |   |   |   |   |   |--- value: [477.10]
+|   |   |   |   |   |   |   |   |   |--- FractalDimension >  0.08
+|   |   |   |   |   |   |   |   |   |   |--- value: [475.90]
+|   |--- Perimeter >  84.01
+|   |   |--- Perimeter <= 94.53
+|   |   |   |--- Perimeter <= 88.85
+|   |   |   |   |--- Perimeter <= 87.63
+|   |   |   |   |   |--- Compactness <= 0.09
+|   |   |   |   |   |   |--- Perimeter <= 85.84
+|   |   |   |   |   |   |   |--- Perimeter <= 84.42
+|   |   |   |   |   |   |   |   |--- Smoothness <= 0.07
+|   |   |   |   |   |   |   |   |   |--- value: [541.60]
+|   |   |   |   |   |   |   |   |--- Smoothness >  0.07
+|   |   |   |   |   |   |   |   |   |--- Perimeter <= 84.06
+|   |   |   |   |   |   |   |   |   |   |--- value: [538.70]
+|   |   |   |   |   |   |   |   |   |--- Perimeter >  84.06
+|   |   |   |   |   |   |   |   |   |   |--- Smoothness <= 0.09
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [537.30]
+|   |   |   |   |   |   |   |   |   |   |--- Smoothness >  0.09
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [537.90]
+|   |   |   |   |   |   |   |--- Perimeter >  84.42
+|   |   |   |   |   |   |   |   |--- Compactness <= 0.07
+|   |   |   |   |   |   |   |   |   |--- FractalDimension <= 0.06
+|   |   |   |   |   |   |   |   |   |   |--- Perimeter <= 84.90
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [546.40]
+|   |   |   |   |   |   |   |   |   |   |--- Perimeter >  84.90
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [546.10]
+|   |   |   |   |   |   |   |   |   |--- FractalDimension >  0.06
+|   |   |   |   |   |   |   |   |   |   |--- value: [552.40]
+|   |   |   |   |   |   |   |   |--- Compactness >  0.07
+|   |   |   |   |   |   |   |   |   |--- Symmetry <= 0.16
+|   |   |   |   |   |   |   |   |   |   |--- value: [541.80]
+|   |   |   |   |   |   |   |   |   |--- Symmetry >  0.16
+|   |   |   |   |   |   |   |   |   |   |--- Texture <= 21.70
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [538.90]
+|   |   |   |   |   |   |   |   |   |   |--- Texture >  21.70
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [538.40]
+|   |   |   |   |   |   |--- Perimeter >  85.84
+|   |   |   |   |   |   |   |--- Texture <= 18.07
+|   |   |   |   |   |   |   |   |--- Texture <= 15.35
+|   |   |   |   |   |   |   |   |   |--- value: [566.30]
+|   |   |   |   |   |   |   |   |--- Texture >  15.35
+|   |   |   |   |   |   |   |   |   |--- Perimeter <= 86.72
+|   |   |   |   |   |   |   |   |   |   |--- value: [572.30]
+|   |   |   |   |   |   |   |   |   |--- Perimeter >  86.72
+|   |   |   |   |   |   |   |   |   |   |--- value: [571.80]
+|   |   |   |   |   |   |   |--- Texture >  18.07
+|   |   |   |   |   |   |   |   |--- Smoothness <= 0.09
+|   |   |   |   |   |   |   |   |   |--- Symmetry <= 0.15
+|   |   |   |   |   |   |   |   |   |   |--- value: [562.10]
+|   |   |   |   |   |   |   |   |   |--- Symmetry >  0.15
+|   |   |   |   |   |   |   |   |   |   |--- value: [561.00]
+|   |   |   |   |   |   |   |   |--- Smoothness >  0.09
+|   |   |   |   |   |   |   |   |   |--- FractalDimension <= 0.06
+|   |   |   |   |   |   |   |   |   |   |--- value: [555.10]
+|   |   |   |   |   |   |   |   |   |--- FractalDimension >  0.06
+|   |   |   |   |   |   |   |   |   |   |--- value: [557.20]
+|   |   |   |   |   |--- Compactness >  0.09
+|   |   |   |   |   |   |--- Perimeter <= 85.34
+|   |   |   |   |   |   |   |--- Smoothness <= 0.10
+|   |   |   |   |   |   |   |   |--- FractalDimension <= 0.06
+|   |   |   |   |   |   |   |   |   |--- value: [516.60]
+|   |   |   |   |   |   |   |   |--- FractalDimension >  0.06
+|   |   |   |   |   |   |   |   |   |--- Symmetry <= 0.16
+|   |   |   |   |   |   |   |   |   |   |--- value: [512.20]
+|   |   |   |   |   |   |   |   |   |--- Symmetry >  0.16
+|   |   |   |   |   |   |   |   |   |   |--- Texture <= 16.79
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [514.30]
+|   |   |   |   |   |   |   |   |   |   |--- Texture >  16.79
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [514.00]
+|   |   |   |   |   |   |   |--- Smoothness >  0.10
+|   |   |   |   |   |   |   |   |--- Symmetry <= 0.19
+|   |   |   |   |   |   |   |   |   |--- value: [493.10]
+|   |   |   |   |   |   |   |   |--- Symmetry >  0.19
+|   |   |   |   |   |   |   |   |   |--- value: [503.20]
+|   |   |   |   |   |   |--- Perimeter >  85.34
+|   |   |   |   |   |   |   |--- Compactness <= 0.15
+|   |   |   |   |   |   |   |   |--- Perimeter <= 86.43
+|   |   |   |   |   |   |   |   |   |--- Compactness <= 0.11
+|   |   |   |   |   |   |   |   |   |   |--- value: [531.50]
+|   |   |   |   |   |   |   |   |   |--- Compactness >  0.11
+|   |   |   |   |   |   |   |   |   |   |--- Symmetry <= 0.18
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [536.90]
+|   |   |   |   |   |   |   |   |   |   |--- Symmetry >  0.18
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [534.60]
+|   |   |   |   |   |   |   |   |--- Perimeter >  86.43
+|   |   |   |   |   |   |   |   |   |--- Compactness <= 0.11
+|   |   |   |   |   |   |   |   |   |   |--- value: [551.10]
+|   |   |   |   |   |   |   |   |   |--- Compactness >  0.11
+|   |   |   |   |   |   |   |   |   |   |--- Smoothness <= 0.09
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [542.90]
+|   |   |   |   |   |   |   |   |   |   |--- Smoothness >  0.09
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |--- Compactness >  0.15
+|   |   |   |   |   |   |   |   |--- Symmetry <= 0.19
+|   |   |   |   |   |   |   |   |   |--- Compactness <= 0.16
+|   |   |   |   |   |   |   |   |   |   |--- value: [529.40]
+|   |   |   |   |   |   |   |   |   |--- Compactness >  0.16
+|   |   |   |   |   |   |   |   |   |   |--- value: [530.20]
+|   |   |   |   |   |   |   |   |--- Symmetry >  0.19
+|   |   |   |   |   |   |   |   |   |--- FractalDimension <= 0.07
+|   |   |   |   |   |   |   |   |   |   |--- value: [520.00]
+|   |   |   |   |   |   |   |   |   |--- FractalDimension >  0.07
+|   |   |   |   |   |   |   |   |   |   |--- value: [519.80]
+|   |   |   |   |--- Perimeter >  87.63
+|   |   |   |   |   |--- Smoothness <= 0.09
+|   |   |   |   |   |   |--- Perimeter <= 88.32
+|   |   |   |   |   |   |   |--- Symmetry <= 0.17
+|   |   |   |   |   |   |   |   |--- Perimeter <= 88.09
+|   |   |   |   |   |   |   |   |   |--- value: [582.70]
+|   |   |   |   |   |   |   |   |--- Perimeter >  88.09
+|   |   |   |   |   |   |   |   |   |--- value: [585.00]
+|   |   |   |   |   |   |   |--- Symmetry >  0.17
+|   |   |   |   |   |   |   |   |--- FractalDimension <= 0.06
+|   |   |   |   |   |   |   |   |   |--- value: [579.10]
+|   |   |   |   |   |   |   |   |--- FractalDimension >  0.06
+|   |   |   |   |   |   |   |   |   |--- value: [580.60]
+|   |   |   |   |   |   |--- Perimeter >  88.32
+|   |   |   |   |   |   |   |--- Smoothness <= 0.09
+|   |   |   |   |   |   |   |   |--- Smoothness <= 0.08
+|   |   |   |   |   |   |   |   |   |--- value: [596.60]
+|   |   |   |   |   |   |   |   |--- Smoothness >  0.08
+|   |   |   |   |   |   |   |   |   |--- Smoothness <= 0.08
+|   |   |   |   |   |   |   |   |   |   |--- value: [590.00]
+|   |   |   |   |   |   |   |   |   |--- Smoothness >  0.08
+|   |   |   |   |   |   |   |   |   |   |--- Texture <= 17.90
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [593.70]
+|   |   |   |   |   |   |   |   |   |   |--- Texture >  17.90
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [592.60]
+|   |   |   |   |   |   |   |--- Smoothness >  0.09
+|   |   |   |   |   |   |   |   |--- Perimeter <= 88.41
+|   |   |   |   |   |   |   |   |   |--- value: [585.90]
+|   |   |   |   |   |   |   |   |--- Perimeter >  88.41
+|   |   |   |   |   |   |   |   |   |--- value: [588.70]
+|   |   |   |   |   |--- Smoothness >  0.09
+|   |   |   |   |   |   |--- Smoothness <= 0.10
+|   |   |   |   |   |   |   |--- Texture <= 16.98
+|   |   |   |   |   |   |   |   |--- value: [575.50]
+|   |   |   |   |   |   |   |--- Texture >  16.98
+|   |   |   |   |   |   |   |   |--- Compactness <= 0.08
+|   |   |   |   |   |   |   |   |   |--- value: [572.60]
+|   |   |   |   |   |   |   |   |--- Compactness >  0.08
+|   |   |   |   |   |   |   |   |   |--- FractalDimension <= 0.06
+|   |   |   |   |   |   |   |   |   |   |--- value: [571.10]
+|   |   |   |   |   |   |   |   |   |--- FractalDimension >  0.06
+|   |   |   |   |   |   |   |   |   |   |--- value: [571.00]
+|   |   |   |   |   |   |--- Smoothness >  0.10
+|   |   |   |   |   |   |   |--- Smoothness <= 0.11
+|   |   |   |   |   |   |   |   |--- Symmetry <= 0.18
+|   |   |   |   |   |   |   |   |   |--- value: [559.20]
+|   |   |   |   |   |   |   |   |--- Symmetry >  0.18
+|   |   |   |   |   |   |   |   |   |--- value: [561.30]
+|   |   |   |   |   |   |   |--- Smoothness >  0.11
+|   |   |   |   |   |   |   |   |--- Perimeter <= 88.37
+|   |   |   |   |   |   |   |   |   |--- Texture <= 14.91
+|   |   |   |   |   |   |   |   |   |   |--- value: [559.20]
+|   |   |   |   |   |   |   |   |   |--- Texture >  14.91
+|   |   |   |   |   |   |   |   |   |   |--- value: [558.10]
+|   |   |   |   |   |   |   |   |--- Perimeter >  88.37
+|   |   |   |   |   |   |   |   |   |--- value: [556.70]
+|   |   |   |--- Perimeter >  88.85
+|   |   |   |   |--- Perimeter <= 91.90
+|   |   |   |   |   |--- Compactness <= 0.05
+|   |   |   |   |   |   |--- Texture <= 14.85
+|   |   |   |   |   |   |   |--- value: [616.50]
+|   |   |   |   |   |   |--- Texture >  14.85
+|   |   |   |   |   |   |   |--- Texture <= 17.49
+|   |   |   |   |   |   |   |   |--- value: [632.60]
+|   |   |   |   |   |   |   |--- Texture >  17.49
+|   |   |   |   |   |   |   |   |--- value: [633.10]
+|   |   |   |   |   |--- Compactness >  0.05
+|   |   |   |   |   |   |--- FractalDimension <= 0.07
+|   |   |   |   |   |   |   |--- Symmetry <= 0.19
+|   |   |   |   |   |   |   |   |--- Texture <= 16.30
+|   |   |   |   |   |   |   |   |   |--- FractalDimension <= 0.06
+|   |   |   |   |   |   |   |   |   |   |--- value: [606.50]
+|   |   |   |   |   |   |   |   |   |--- FractalDimension >  0.06
+|   |   |   |   |   |   |   |   |   |   |--- value: [611.20]
+|   |   |   |   |   |   |   |   |--- Texture >  16.30
+|   |   |   |   |   |   |   |   |   |--- Symmetry <= 0.17
+|   |   |   |   |   |   |   |   |   |   |--- Perimeter <= 89.77
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [609.10]
+|   |   |   |   |   |   |   |   |   |   |--- Perimeter >  89.77
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |--- Symmetry >  0.17
+|   |   |   |   |   |   |   |   |   |   |--- Compactness <= 0.12
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |   |--- Compactness >  0.12
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [602.40]
+|   |   |   |   |   |   |   |--- Symmetry >  0.19
+|   |   |   |   |   |   |   |   |--- Texture <= 14.18
+|   |   |   |   |   |   |   |   |   |--- value: [594.20]
+|   |   |   |   |   |   |   |   |--- Texture >  14.18
+|   |   |   |   |   |   |   |   |   |--- value: [587.40]
+|   |   |   |   |   |   |--- FractalDimension >  0.07
+|   |   |   |   |   |   |   |--- Smoothness <= 0.12
+|   |   |   |   |   |   |   |   |--- FractalDimension <= 0.07
+|   |   |   |   |   |   |   |   |   |--- value: [584.80]
+|   |   |   |   |   |   |   |   |--- FractalDimension >  0.07
+|   |   |   |   |   |   |   |   |   |--- Compactness <= 0.16
+|   |   |   |   |   |   |   |   |   |   |--- value: [578.90]
+|   |   |   |   |   |   |   |   |   |--- Compactness >  0.16
+|   |   |   |   |   |   |   |   |   |   |--- value: [577.90]
+|   |   |   |   |   |   |   |--- Smoothness >  0.12
+|   |   |   |   |   |   |   |   |--- Perimeter <= 91.09
+|   |   |   |   |   |   |   |   |   |--- value: [588.90]
+|   |   |   |   |   |   |   |   |--- Perimeter >  91.09
+|   |   |   |   |   |   |   |   |   |--- value: [597.80]
+|   |   |   |   |--- Perimeter >  91.90
+|   |   |   |   |   |--- FractalDimension <= 0.07
+|   |   |   |   |   |   |--- FractalDimension <= 0.06
+|   |   |   |   |   |   |   |--- Symmetry <= 0.17
+|   |   |   |   |   |   |   |   |--- FractalDimension <= 0.06
+|   |   |   |   |   |   |   |   |   |--- FractalDimension <= 0.05
+|   |   |   |   |   |   |   |   |   |   |--- value: [664.90]
+|   |   |   |   |   |   |   |   |   |--- FractalDimension >  0.05
+|   |   |   |   |   |   |   |   |   |   |--- value: [666.00]
+|   |   |   |   |   |   |   |   |--- FractalDimension >  0.06
+|   |   |   |   |   |   |   |   |   |--- value: [659.70]
+|   |   |   |   |   |   |   |--- Symmetry >  0.17
+|   |   |   |   |   |   |   |   |--- FractalDimension <= 0.06
+|   |   |   |   |   |   |   |   |   |--- Texture <= 17.46
+|   |   |   |   |   |   |   |   |   |   |--- value: [641.20]
+|   |   |   |   |   |   |   |   |   |--- Texture >  17.46
+|   |   |   |   |   |   |   |   |   |   |--- Compactness <= 0.08
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [646.10]
+|   |   |   |   |   |   |   |   |   |   |--- Compactness >  0.08
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [648.20]
+|   |   |   |   |   |   |   |   |--- FractalDimension >  0.06
+|   |   |   |   |   |   |   |   |   |--- value: [658.80]
+|   |   |   |   |   |   |--- FractalDimension >  0.06
+|   |   |   |   |   |   |   |--- Texture <= 20.38
+|   |   |   |   |   |   |   |   |--- Perimeter <= 94.01
+|   |   |   |   |   |   |   |   |   |--- value: [644.20]
+|   |   |   |   |   |   |   |   |--- Perimeter >  94.01
+|   |   |   |   |   |   |   |   |   |--- Perimeter <= 94.38
+|   |   |   |   |   |   |   |   |   |   |--- Texture <= 13.72
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [640.70]
+|   |   |   |   |   |   |   |   |   |   |--- Texture >  13.72
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [641.20]
+|   |   |   |   |   |   |   |   |   |--- Perimeter >  94.38
+|   |   |   |   |   |   |   |   |   |   |--- FractalDimension <= 0.06
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [642.50]
+|   |   |   |   |   |   |   |   |   |   |--- FractalDimension >  0.06
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [642.70]
+|   |   |   |   |   |   |   |--- Texture >  20.38
+|   |   |   |   |   |   |   |   |--- Perimeter <= 93.09
+|   |   |   |   |   |   |   |   |   |--- Texture <= 24.19
+|   |   |   |   |   |   |   |   |   |   |--- value: [618.40]
+|   |   |   |   |   |   |   |   |   |--- Texture >  24.19
+|   |   |   |   |   |   |   |   |   |   |--- value: [623.90]
+|   |   |   |   |   |   |   |   |--- Perimeter >  93.09
+|   |   |   |   |   |   |   |   |   |--- Texture <= 22.13
+|   |   |   |   |   |   |   |   |   |   |--- value: [633.00]
+|   |   |   |   |   |   |   |   |   |--- Texture >  22.13
+|   |   |   |   |   |   |   |   |   |   |--- value: [629.80]
+|   |   |   |   |   |--- FractalDimension >  0.07
+|   |   |   |   |   |   |--- FractalDimension <= 0.08
+|   |   |   |   |   |   |   |--- Perimeter <= 93.35
+|   |   |   |   |   |   |   |   |--- value: [595.90]
+|   |   |   |   |   |   |   |--- Perimeter >  93.35
+|   |   |   |   |   |   |   |   |--- value: [609.90]
+|   |   |   |   |   |   |--- FractalDimension >  0.08
+|   |   |   |   |   |   |   |--- value: [578.30]
+|   |   |--- Perimeter >  94.53
+|   |   |   |--- Perimeter <= 102.60
+|   |   |   |   |--- Perimeter <= 97.49
+|   |   |   |   |   |--- FractalDimension <= 0.06
+|   |   |   |   |   |   |--- Perimeter <= 95.19
+|   |   |   |   |   |   |   |--- Compactness <= 0.07
+|   |   |   |   |   |   |   |   |--- Symmetry <= 0.16
+|   |   |   |   |   |   |   |   |   |--- value: [673.70]
+|   |   |   |   |   |   |   |   |--- Symmetry >  0.16
+|   |   |   |   |   |   |   |   |   |--- Smoothness <= 0.09
+|   |   |   |   |   |   |   |   |   |   |--- value: [680.70]
+|   |   |   |   |   |   |   |   |   |--- Smoothness >  0.09
+|   |   |   |   |   |   |   |   |   |   |--- value: [684.50]
+|   |   |   |   |   |   |   |--- Compactness >  0.07
+|   |   |   |   |   |   |   |   |--- Symmetry <= 0.18
+|   |   |   |   |   |   |   |   |   |--- value: [662.70]
+|   |   |   |   |   |   |   |   |--- Symmetry >  0.18
+|   |   |   |   |   |   |   |   |   |--- value: [668.60]
+|   |   |   |   |   |   |--- Perimeter >  95.19
+|   |   |   |   |   |   |   |--- Texture <= 21.11
+|   |   |   |   |   |   |   |   |--- FractalDimension <= 0.06
+|   |   |   |   |   |   |   |   |   |--- Texture <= 19.98
+|   |   |   |   |   |   |   |   |   |   |--- Perimeter <= 95.97
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [690.20]
+|   |   |   |   |   |   |   |   |   |   |--- Perimeter >  95.97
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |--- Texture >  19.98
+|   |   |   |   |   |   |   |   |   |   |--- value: [680.90]
+|   |   |   |   |   |   |   |   |--- FractalDimension >  0.06
+|   |   |   |   |   |   |   |   |   |--- value: [701.90]
+|   |   |   |   |   |   |   |--- Texture >  21.11
+|   |   |   |   |   |   |   |   |--- FractalDimension <= 0.06
+|   |   |   |   |   |   |   |   |   |--- value: [698.80]
+|   |   |   |   |   |   |   |   |--- FractalDimension >  0.06
+|   |   |   |   |   |   |   |   |   |--- value: [712.80]
+|   |   |   |   |   |--- FractalDimension >  0.06
+|   |   |   |   |   |   |--- Smoothness <= 0.12
+|   |   |   |   |   |   |   |--- Texture <= 22.41
+|   |   |   |   |   |   |   |   |--- Texture <= 20.63
+|   |   |   |   |   |   |   |   |   |--- FractalDimension <= 0.07
+|   |   |   |   |   |   |   |   |   |   |--- value: [651.90]
+|   |   |   |   |   |   |   |   |   |--- FractalDimension >  0.07
+|   |   |   |   |   |   |   |   |   |   |--- value: [651.00]
+|   |   |   |   |   |   |   |   |--- Texture >  20.63
+|   |   |   |   |   |   |   |   |   |--- Compactness <= 0.19
+|   |   |   |   |   |   |   |   |   |   |--- value: [644.80]
+|   |   |   |   |   |   |   |   |   |--- Compactness >  0.19
+|   |   |   |   |   |   |   |   |   |   |--- value: [645.70]
+|   |   |   |   |   |   |   |--- Texture >  22.41
+|   |   |   |   |   |   |   |   |--- FractalDimension <= 0.07
+|   |   |   |   |   |   |   |   |   |--- Compactness <= 0.13
+|   |   |   |   |   |   |   |   |   |   |--- value: [656.40]
+|   |   |   |   |   |   |   |   |   |--- Compactness >  0.13
+|   |   |   |   |   |   |   |   |   |   |--- value: [657.10]
+|   |   |   |   |   |   |   |   |--- FractalDimension >  0.07
+|   |   |   |   |   |   |   |   |   |--- value: [658.80]
+|   |   |   |   |   |   |--- Smoothness >  0.12
+|   |   |   |   |   |   |   |--- Texture <= 20.76
+|   |   |   |   |   |   |   |   |--- value: [678.10]
+|   |   |   |   |   |   |   |--- Texture >  20.76
+|   |   |   |   |   |   |   |   |--- value: [668.30]
+|   |   |   |   |--- Perimeter >  97.49
+|   |   |   |   |   |--- Compactness <= 0.18
+|   |   |   |   |   |   |--- Perimeter <= 100.75
+|   |   |   |   |   |   |   |--- FractalDimension <= 0.06
+|   |   |   |   |   |   |   |   |--- Symmetry <= 0.18
+|   |   |   |   |   |   |   |   |   |--- FractalDimension <= 0.06
+|   |   |   |   |   |   |   |   |   |   |--- value: [725.50]
+|   |   |   |   |   |   |   |   |   |--- FractalDimension >  0.06
+|   |   |   |   |   |   |   |   |   |   |--- Symmetry <= 0.17
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [716.60]
+|   |   |   |   |   |   |   |   |   |   |--- Symmetry >  0.17
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |--- Symmetry >  0.18
+|   |   |   |   |   |   |   |   |   |--- FractalDimension <= 0.06
+|   |   |   |   |   |   |   |   |   |   |--- value: [693.70]
+|   |   |   |   |   |   |   |   |   |--- FractalDimension >  0.06
+|   |   |   |   |   |   |   |   |   |   |--- value: [705.60]
+|   |   |   |   |   |   |   |--- FractalDimension >  0.06
+|   |   |   |   |   |   |   |   |--- Symmetry <= 0.20
+|   |   |   |   |   |   |   |   |   |--- Compactness <= 0.13
+|   |   |   |   |   |   |   |   |   |   |--- value: [689.50]
+|   |   |   |   |   |   |   |   |   |--- Compactness >  0.13
+|   |   |   |   |   |   |   |   |   |   |--- value: [689.40]
+|   |   |   |   |   |   |   |   |--- Symmetry >  0.20
+|   |   |   |   |   |   |   |   |   |--- value: [682.50]
+|   |   |   |   |   |   |--- Perimeter >  100.75
+|   |   |   |   |   |   |   |--- Perimeter <= 101.80
+|   |   |   |   |   |   |   |   |--- value: [766.60]
+|   |   |   |   |   |   |   |--- Perimeter >  101.80
+|   |   |   |   |   |   |   |   |--- Symmetry <= 0.19
+|   |   |   |   |   |   |   |   |   |--- value: [732.40]
+|   |   |   |   |   |   |   |   |--- Symmetry >  0.19
+|   |   |   |   |   |   |   |   |   |--- value: [736.90]
+|   |   |   |   |   |--- Compactness >  0.18
+|   |   |   |   |   |   |--- Compactness <= 0.21
+|   |   |   |   |   |   |   |--- Perimeter <= 99.31
+|   |   |   |   |   |   |   |   |--- value: [656.10]
+|   |   |   |   |   |   |   |--- Perimeter >  99.31
+|   |   |   |   |   |   |   |   |--- value: [671.40]
+|   |   |   |   |   |   |--- Compactness >  0.21
+|   |   |   |   |   |   |   |--- Perimeter <= 102.30
+|   |   |   |   |   |   |   |   |--- value: [685.00]
+|   |   |   |   |   |   |   |--- Perimeter >  102.30
+|   |   |   |   |   |   |   |   |--- value: [704.40]
+|   |   |   |--- Perimeter >  102.60
+|   |   |   |   |--- Perimeter <= 103.95
+|   |   |   |   |   |--- Compactness <= 0.16
+|   |   |   |   |   |   |--- Texture <= 16.18
+|   |   |   |   |   |   |   |--- value: [747.20]
+|   |   |   |   |   |   |--- Texture >  16.18
+|   |   |   |   |   |   |   |--- Texture <= 23.60
+|   |   |   |   |   |   |   |   |--- Compactness <= 0.11
+|   |   |   |   |   |   |   |   |   |--- value: [797.80]
+|   |   |   |   |   |   |   |   |--- Compactness >  0.11
+|   |   |   |   |   |   |   |   |   |--- value: [803.10]
+|   |   |   |   |   |   |   |--- Texture >  23.60
+|   |   |   |   |   |   |   |   |--- value: [782.70]
+|   |   |   |   |   |--- Compactness >  0.16
+|   |   |   |   |   |   |--- Perimeter <= 103.55
+|   |   |   |   |   |   |   |--- Perimeter <= 103.30
+|   |   |   |   |   |   |   |   |--- value: [713.30]
+|   |   |   |   |   |   |   |--- Perimeter >  103.30
+|   |   |   |   |   |   |   |   |--- value: [716.90]
+|   |   |   |   |   |   |--- Perimeter >  103.55
+|   |   |   |   |   |   |   |--- FractalDimension <= 0.07
+|   |   |   |   |   |   |   |   |--- value: [744.90]
+|   |   |   |   |   |   |   |--- FractalDimension >  0.07
+|   |   |   |   |   |   |   |   |--- value: [731.30]
+|   |   |   |   |--- Perimeter >  103.95
+|   |   |   |   |   |--- FractalDimension <= 0.07
+|   |   |   |   |   |   |--- Perimeter <= 107.90
+|   |   |   |   |   |   |   |--- Texture <= 16.78
+|   |   |   |   |   |   |   |   |--- Symmetry <= 0.18
+|   |   |   |   |   |   |   |   |   |--- value: [800.00]
+|   |   |   |   |   |   |   |   |--- Symmetry >  0.18
+|   |   |   |   |   |   |   |   |   |--- value: [793.20]
+|   |   |   |   |   |   |   |--- Texture >  16.78
+|   |   |   |   |   |   |   |   |--- Symmetry <= 0.16
+|   |   |   |   |   |   |   |   |   |--- value: [838.10]
+|   |   |   |   |   |   |   |   |--- Symmetry >  0.16
+|   |   |   |   |   |   |   |   |   |--- Perimeter <= 107.20
+|   |   |   |   |   |   |   |   |   |   |--- Perimeter <= 104.60
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [817.70]
+|   |   |   |   |   |   |   |   |   |   |--- Perimeter >  104.60
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |--- Perimeter >  107.20
+|   |   |   |   |   |   |   |   |   |   |--- value: [826.80]
+|   |   |   |   |   |   |--- Perimeter >  107.90
+|   |   |   |   |   |   |   |--- Compactness <= 0.15
+|   |   |   |   |   |   |   |   |--- Compactness <= 0.14
+|   |   |   |   |   |   |   |   |   |--- Texture <= 24.84
+|   |   |   |   |   |   |   |   |   |   |--- FractalDimension <= 0.05
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [880.20]
+|   |   |   |   |   |   |   |   |   |   |--- FractalDimension >  0.05
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [869.50]
+|   |   |   |   |   |   |   |   |   |--- Texture >  24.84
+|   |   |   |   |   |   |   |   |   |   |--- value: [858.10]
+|   |   |   |   |   |   |   |   |--- Compactness >  0.14
+|   |   |   |   |   |   |   |   |   |--- value: [904.60]
+|   |   |   |   |   |   |   |--- Compactness >  0.15
+|   |   |   |   |   |   |   |   |--- Symmetry <= 0.20
+|   |   |   |   |   |   |   |   |   |--- value: [832.90]
+|   |   |   |   |   |   |   |   |--- Symmetry >  0.20
+|   |   |   |   |   |   |   |   |   |--- value: [840.40]
+|   |   |   |   |   |--- FractalDimension >  0.07
+|   |   |   |   |   |   |--- Texture <= 21.80
+|   |   |   |   |   |   |   |--- Perimeter <= 108.45
+|   |   |   |   |   |   |   |   |--- Symmetry <= 0.21
+|   |   |   |   |   |   |   |   |   |--- value: [788.50]
+|   |   |   |   |   |   |   |   |--- Symmetry >  0.21
+|   |   |   |   |   |   |   |   |   |--- value: [798.80]
+|   |   |   |   |   |   |   |--- Perimeter >  108.45
+|   |   |   |   |   |   |   |   |--- FractalDimension <= 0.07
+|   |   |   |   |   |   |   |   |   |--- value: [815.80]
+|   |   |   |   |   |   |   |   |--- FractalDimension >  0.07
+|   |   |   |   |   |   |   |   |   |--- value: [805.10]
+|   |   |   |   |   |   |--- Texture >  21.80
+|   |   |   |   |   |   |   |--- Smoothness <= 0.11
+|   |   |   |   |   |   |   |   |--- value: [773.50]
+|   |   |   |   |   |   |   |--- Smoothness >  0.11
+|   |   |   |   |   |   |   |   |--- value: [782.60]
+|--- Perimeter >  110.60
+|   |--- Perimeter <= 145.10
+|   |   |--- Perimeter <= 125.15
+|   |   |   |--- Perimeter <= 118.50
+|   |   |   |   |--- Perimeter <= 116.65
+|   |   |   |   |   |--- Smoothness <= 0.09
+|   |   |   |   |   |   |--- Perimeter <= 112.60
+|   |   |   |   |   |   |   |--- value: [933.10]
+|   |   |   |   |   |   |--- Perimeter >  112.60
+|   |   |   |   |   |   |   |--- Smoothness <= 0.09
+|   |   |   |   |   |   |   |   |--- Symmetry <= 0.18
+|   |   |   |   |   |   |   |   |   |--- Symmetry <= 0.14
+|   |   |   |   |   |   |   |   |   |   |--- value: [992.10]
+|   |   |   |   |   |   |   |   |   |--- Symmetry >  0.14
+|   |   |   |   |   |   |   |   |   |   |--- value: [998.90]
+|   |   |   |   |   |   |   |   |--- Symmetry >  0.18
+|   |   |   |   |   |   |   |   |   |--- value: [982.00]
+|   |   |   |   |   |   |   |--- Smoothness >  0.09
+|   |   |   |   |   |   |   |   |--- FractalDimension <= 0.05
+|   |   |   |   |   |   |   |   |   |--- value: [947.80]
+|   |   |   |   |   |   |   |   |--- FractalDimension >  0.05
+|   |   |   |   |   |   |   |   |   |--- value: [951.60]
+|   |   |   |   |   |--- Smoothness >  0.09
+|   |   |   |   |   |   |--- Smoothness <= 0.11
+|   |   |   |   |   |   |   |--- Symmetry <= 0.16
+|   |   |   |   |   |   |   |   |--- value: [948.00]
+|   |   |   |   |   |   |   |--- Symmetry >  0.16
+|   |   |   |   |   |   |   |   |--- Perimeter <= 111.40
+|   |   |   |   |   |   |   |   |   |--- value: [930.90]
+|   |   |   |   |   |   |   |   |--- Perimeter >  111.40
+|   |   |   |   |   |   |   |   |   |--- Perimeter <= 112.90
+|   |   |   |   |   |   |   |   |   |   |--- value: [928.30]
+|   |   |   |   |   |   |   |   |   |--- Perimeter >  112.90
+|   |   |   |   |   |   |   |   |   |   |--- value: [929.40]
+|   |   |   |   |   |   |--- Smoothness >  0.11
+|   |   |   |   |   |   |   |--- Smoothness <= 0.12
+|   |   |   |   |   |   |   |   |--- FractalDimension <= 0.07
+|   |   |   |   |   |   |   |   |   |--- value: [918.60]
+|   |   |   |   |   |   |   |   |--- FractalDimension >  0.07
+|   |   |   |   |   |   |   |   |   |--- value: [912.70]
+|   |   |   |   |   |   |   |--- Smoothness >  0.12
+|   |   |   |   |   |   |   |   |--- value: [899.30]
+|   |   |   |   |--- Perimeter >  116.65
+|   |   |   |   |   |--- Compactness <= 0.10
+|   |   |   |   |   |   |--- value: [1024.00]
+|   |   |   |   |   |--- Compactness >  0.10
+|   |   |   |   |   |   |--- Symmetry <= 0.21
+|   |   |   |   |   |   |   |--- Perimeter <= 117.40
+|   |   |   |   |   |   |   |   |--- value: [981.60]
+|   |   |   |   |   |   |   |--- Perimeter >  117.40
+|   |   |   |   |   |   |   |   |--- Perimeter <= 117.65
+|   |   |   |   |   |   |   |   |   |--- value: [990.00]
+|   |   |   |   |   |   |   |   |--- Perimeter >  117.65
+|   |   |   |   |   |   |   |   |   |--- value: [991.70]
+|   |   |   |   |   |   |--- Symmetry >  0.21
+|   |   |   |   |   |   |   |--- value: [1007.00]
+|   |   |   |--- Perimeter >  118.50
+|   |   |   |   |--- Compactness <= 0.19
+|   |   |   |   |   |--- Perimeter <= 120.85
+|   |   |   |   |   |   |--- Texture <= 21.24
+|   |   |   |   |   |   |   |--- Texture <= 20.28
+|   |   |   |   |   |   |   |   |--- Symmetry <= 0.18
+|   |   |   |   |   |   |   |   |   |--- FractalDimension <= 0.06
+|   |   |   |   |   |   |   |   |   |   |--- value: [1041.00]
+|   |   |   |   |   |   |   |   |   |--- FractalDimension >  0.06
+|   |   |   |   |   |   |   |   |   |   |--- value: [1040.00]
+|   |   |   |   |   |   |   |   |--- Symmetry >  0.18
+|   |   |   |   |   |   |   |   |   |--- Symmetry <= 0.19
+|   |   |   |   |   |   |   |   |   |   |--- value: [1027.00]
+|   |   |   |   |   |   |   |   |   |--- Symmetry >  0.19
+|   |   |   |   |   |   |   |   |   |   |--- value: [1033.00]
+|   |   |   |   |   |   |   |--- Texture >  20.28
+|   |   |   |   |   |   |   |   |--- value: [1052.00]
+|   |   |   |   |   |   |--- Texture >  21.24
+|   |   |   |   |   |   |   |--- value: [1075.00]
+|   |   |   |   |   |--- Perimeter >  120.85
+|   |   |   |   |   |   |--- Smoothness <= 0.09
+|   |   |   |   |   |   |   |--- value: [1138.00]
+|   |   |   |   |   |   |--- Smoothness >  0.09
+|   |   |   |   |   |   |   |--- Texture <= 19.25
+|   |   |   |   |   |   |   |   |--- Symmetry <= 0.19
+|   |   |   |   |   |   |   |   |   |--- value: [1068.00]
+|   |   |   |   |   |   |   |   |--- Symmetry >  0.19
+|   |   |   |   |   |   |   |   |   |--- FractalDimension <= 0.06
+|   |   |   |   |   |   |   |   |   |   |--- value: [1075.00]
+|   |   |   |   |   |   |   |   |   |--- FractalDimension >  0.06
+|   |   |   |   |   |   |   |   |   |   |--- Texture <= 17.36
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [1077.00]
+|   |   |   |   |   |   |   |   |   |   |--- Texture >  17.36
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [1076.00]
+|   |   |   |   |   |   |   |--- Texture >  19.25
+|   |   |   |   |   |   |   |   |--- Symmetry <= 0.19
+|   |   |   |   |   |   |   |   |   |--- Compactness <= 0.10
+|   |   |   |   |   |   |   |   |   |   |--- value: [1102.00]
+|   |   |   |   |   |   |   |   |   |--- Compactness >  0.10
+|   |   |   |   |   |   |   |   |   |   |--- value: [1110.00]
+|   |   |   |   |   |   |   |   |--- Symmetry >  0.19
+|   |   |   |   |   |   |   |   |   |--- Smoothness <= 0.10
+|   |   |   |   |   |   |   |   |   |   |--- value: [1076.00]
+|   |   |   |   |   |   |   |   |   |--- Smoothness >  0.10
+|   |   |   |   |   |   |   |   |   |   |--- value: [1088.00]
+|   |   |   |   |--- Compactness >  0.19
+|   |   |   |   |   |--- Perimeter <= 120.90
+|   |   |   |   |   |   |--- value: [980.50]
+|   |   |   |   |   |--- Perimeter >  120.90
+|   |   |   |   |   |   |--- Smoothness <= 0.12
+|   |   |   |   |   |   |   |--- value: [1001.00]
+|   |   |   |   |   |   |--- Smoothness >  0.12
+|   |   |   |   |   |   |   |--- value: [994.00]
+|   |   |--- Perimeter >  125.15
+|   |   |   |--- Perimeter <= 132.45
+|   |   |   |   |--- Perimeter <= 129.30
+|   |   |   |   |   |--- Compactness <= 0.12
+|   |   |   |   |   |   |--- Compactness <= 0.11
+|   |   |   |   |   |   |   |--- value: [1191.00]
+|   |   |   |   |   |   |--- Compactness >  0.11
+|   |   |   |   |   |   |   |--- value: [1223.00]
+|   |   |   |   |   |--- Compactness >  0.12
+|   |   |   |   |   |   |--- Compactness <= 0.18
+|   |   |   |   |   |   |   |--- Perimeter <= 127.70
+|   |   |   |   |   |   |   |   |--- Compactness <= 0.13
+|   |   |   |   |   |   |   |   |   |--- Symmetry <= 0.18
+|   |   |   |   |   |   |   |   |   |   |--- value: [1157.00]
+|   |   |   |   |   |   |   |   |   |--- Symmetry >  0.18
+|   |   |   |   |   |   |   |   |   |   |--- value: [1152.00]
+|   |   |   |   |   |   |   |   |--- Compactness >  0.13
+|   |   |   |   |   |   |   |   |   |--- Symmetry <= 0.19
+|   |   |   |   |   |   |   |   |   |   |--- Compactness <= 0.14
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [1148.00]
+|   |   |   |   |   |   |   |   |   |   |--- Compactness >  0.14
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [1145.00]
+|   |   |   |   |   |   |   |   |   |--- Symmetry >  0.19
+|   |   |   |   |   |   |   |   |   |   |--- value: [1138.00]
+|   |   |   |   |   |   |   |--- Perimeter >  127.70
+|   |   |   |   |   |   |   |   |--- Compactness <= 0.15
+|   |   |   |   |   |   |   |   |   |--- Perimeter <= 128.50
+|   |   |   |   |   |   |   |   |   |   |--- value: [1167.00]
+|   |   |   |   |   |   |   |   |   |--- Perimeter >  128.50
+|   |   |   |   |   |   |   |   |   |   |--- value: [1174.00]
+|   |   |   |   |   |   |   |   |--- Compactness >  0.15
+|   |   |   |   |   |   |   |   |   |--- Perimeter <= 128.50
+|   |   |   |   |   |   |   |   |   |   |--- value: [1162.00]
+|   |   |   |   |   |   |   |   |   |--- Perimeter >  128.50
+|   |   |   |   |   |   |   |   |   |   |--- value: [1155.00]
+|   |   |   |   |   |   |--- Compactness >  0.18
+|   |   |   |   |   |   |   |--- FractalDimension <= 0.07
+|   |   |   |   |   |   |   |   |--- value: [1104.00]
+|   |   |   |   |   |   |   |--- FractalDimension >  0.07
+|   |   |   |   |   |   |   |   |--- value: [1132.00]
+|   |   |   |   |--- Perimeter >  129.30
+|   |   |   |   |   |--- FractalDimension <= 0.07
+|   |   |   |   |   |   |--- Compactness <= 0.12
+|   |   |   |   |   |   |   |--- Symmetry <= 0.17
+|   |   |   |   |   |   |   |   |--- value: [1260.00]
+|   |   |   |   |   |   |   |--- Symmetry >  0.17
+|   |   |   |   |   |   |   |   |--- value: [1261.00]
+|   |   |   |   |   |   |--- Compactness >  0.12
+|   |   |   |   |   |   |   |--- Texture <= 21.62
+|   |   |   |   |   |   |   |   |--- Texture <= 21.40
+|   |   |   |   |   |   |   |   |   |--- Symmetry <= 0.20
+|   |   |   |   |   |   |   |   |   |   |--- Compactness <= 0.18
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |   |--- Compactness >  0.18
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [1206.00]
+|   |   |   |   |   |   |   |   |   |--- Symmetry >  0.20
+|   |   |   |   |   |   |   |   |   |   |--- value: [1203.00]
+|   |   |   |   |   |   |   |   |--- Texture >  21.40
+|   |   |   |   |   |   |   |   |   |--- value: [1230.00]
+|   |   |   |   |   |   |   |--- Texture >  21.62
+|   |   |   |   |   |   |   |   |--- Smoothness <= 0.10
+|   |   |   |   |   |   |   |   |   |--- value: [1194.00]
+|   |   |   |   |   |   |   |   |--- Smoothness >  0.10
+|   |   |   |   |   |   |   |   |   |--- value: [1192.00]
+|   |   |   |   |   |--- FractalDimension >  0.07
+|   |   |   |   |   |   |--- value: [1123.00]
+|   |   |   |--- Perimeter >  132.45
+|   |   |   |   |--- Perimeter <= 140.50
+|   |   |   |   |   |--- Compactness <= 0.18
+|   |   |   |   |   |   |--- Perimeter <= 135.40
+|   |   |   |   |   |   |   |--- Compactness <= 0.11
+|   |   |   |   |   |   |   |   |--- Perimeter <= 132.70
+|   |   |   |   |   |   |   |   |   |--- value: [1306.00]
+|   |   |   |   |   |   |   |   |--- Perimeter >  132.70
+|   |   |   |   |   |   |   |   |   |--- FractalDimension <= 0.06
+|   |   |   |   |   |   |   |   |   |   |--- value: [1319.00]
+|   |   |   |   |   |   |   |   |   |--- FractalDimension >  0.06
+|   |   |   |   |   |   |   |   |   |   |--- value: [1326.00]
+|   |   |   |   |   |   |   |--- Compactness >  0.11
+|   |   |   |   |   |   |   |   |--- Texture <= 21.23
+|   |   |   |   |   |   |   |   |   |--- Compactness <= 0.13
+|   |   |   |   |   |   |   |   |   |   |--- value: [1299.00]
+|   |   |   |   |   |   |   |   |   |--- Compactness >  0.13
+|   |   |   |   |   |   |   |   |   |   |--- value: [1297.00]
+|   |   |   |   |   |   |   |   |--- Texture >  21.23
+|   |   |   |   |   |   |   |   |   |--- Symmetry <= 0.17
+|   |   |   |   |   |   |   |   |   |   |--- value: [1293.00]
+|   |   |   |   |   |   |   |   |   |--- Symmetry >  0.17
+|   |   |   |   |   |   |   |   |   |   |--- Perimeter <= 133.80
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [1288.00]
+|   |   |   |   |   |   |   |   |   |   |--- Perimeter >  133.80
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [1290.00]
+|   |   |   |   |   |   |--- Perimeter >  135.40
+|   |   |   |   |   |   |   |--- FractalDimension <= 0.06
+|   |   |   |   |   |   |   |   |--- Smoothness <= 0.10
+|   |   |   |   |   |   |   |   |   |--- Perimeter <= 136.45
+|   |   |   |   |   |   |   |   |   |   |--- value: [1419.00]
+|   |   |   |   |   |   |   |   |   |--- Perimeter >  136.45
+|   |   |   |   |   |   |   |   |   |   |--- value: [1404.00]
+|   |   |   |   |   |   |   |   |--- Smoothness >  0.10
+|   |   |   |   |   |   |   |   |   |--- Perimeter <= 138.50
+|   |   |   |   |   |   |   |   |   |   |--- value: [1384.00]
+|   |   |   |   |   |   |   |   |   |--- Perimeter >  138.50
+|   |   |   |   |   |   |   |   |   |   |--- value: [1364.00]
+|   |   |   |   |   |   |   |--- FractalDimension >  0.06
+|   |   |   |   |   |   |   |   |--- value: [1308.00]
+|   |   |   |   |   |--- Compactness >  0.18
+|   |   |   |   |   |   |--- Smoothness <= 0.10
+|   |   |   |   |   |   |   |--- value: [1207.00]
+|   |   |   |   |   |   |--- Smoothness >  0.10
+|   |   |   |   |   |   |   |--- Smoothness <= 0.12
+|   |   |   |   |   |   |   |   |--- value: [1264.00]
+|   |   |   |   |   |   |   |--- Smoothness >  0.12
+|   |   |   |   |   |   |   |   |--- value: [1265.00]
+|   |   |   |   |--- Perimeter >  140.50
+|   |   |   |   |   |--- Symmetry <= 0.18
+|   |   |   |   |   |   |--- Perimeter <= 141.45
+|   |   |   |   |   |   |   |--- value: [1546.00]
+|   |   |   |   |   |   |--- Perimeter >  141.45
+|   |   |   |   |   |   |   |--- value: [1479.00]
+|   |   |   |   |   |--- Symmetry >  0.18
+|   |   |   |   |   |   |--- Perimeter <= 142.15
+|   |   |   |   |   |   |   |--- value: [1386.00]
+|   |   |   |   |   |   |--- Perimeter >  142.15
+|   |   |   |   |   |   |   |--- value: [1347.00]
+|   |--- Perimeter >  145.10
+|   |   |--- Perimeter <= 172.85
+|   |   |   |--- Perimeter <= 153.15
+|   |   |   |   |--- Compactness <= 0.16
+|   |   |   |   |   |--- Texture <= 20.94
+|   |   |   |   |   |   |--- value: [1682.00]
+|   |   |   |   |   |--- Texture >  20.94
+|   |   |   |   |   |   |--- value: [1686.00]
+|   |   |   |   |--- Compactness >  0.16
+|   |   |   |   |   |--- Compactness <= 0.24
+|   |   |   |   |   |   |--- Symmetry <= 0.18
+|   |   |   |   |   |   |   |--- value: [1491.00]
+|   |   |   |   |   |   |--- Symmetry >  0.18
+|   |   |   |   |   |   |   |--- value: [1482.00]
+|   |   |   |   |   |--- Compactness >  0.24
+|   |   |   |   |   |   |--- value: [1509.00]
+|   |   |   |--- Perimeter >  153.15
+|   |   |   |   |--- Perimeter <= 168.85
+|   |   |   |   |   |--- Texture <= 25.47
+|   |   |   |   |   |   |--- Symmetry <= 0.22
+|   |   |   |   |   |   |   |--- value: [1747.00]
+|   |   |   |   |   |   |--- Symmetry >  0.22
+|   |   |   |   |   |   |   |--- value: [1761.00]
+|   |   |   |   |   |--- Texture >  25.47
+|   |   |   |   |   |   |--- Texture <= 26.82
+|   |   |   |   |   |   |   |--- value: [1685.00]
+|   |   |   |   |   |   |--- Texture >  26.82
+|   |   |   |   |   |   |   |--- value: [1670.00]
+|   |   |   |   |--- Perimeter >  168.85
+|   |   |   |   |   |--- value: [1878.00]
+|   |   |--- Perimeter >  172.85
+|   |   |   |--- FractalDimension <= 0.06
+|   |   |   |   |--- value: [2499.00]
+|   |   |   |--- FractalDimension >  0.06
+|   |   |   |   |--- Smoothness <= 0.11
+|   |   |   |   |   |--- value: [2250.00]
+|   |   |   |   |--- Smoothness >  0.11
+|   |   |   |   |   |--- value: [2010.00]

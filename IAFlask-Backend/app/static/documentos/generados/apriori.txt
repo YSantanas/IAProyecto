@@ -1,0 +1,45 @@
+Regla: frozenset({'Jumanji', 'Kung Fu Panda'})
+Soporte: 0.0160857908847185
+Confianza: 0.3234501347708895
+Lift: 3.2784483768897226
+=====================================
+Regla: frozenset({'Jumanji', 'Tomb Rider'})
+Soporte: 0.03941018766756032
+Confianza: 0.3994565217391304
+Lift: 2.283483258370814
+=====================================
+Regla: frozenset({'Moana', 'Thor'})
+Soporte: 0.015281501340482574
+Confianza: 0.3007915567282322
+Lift: 2.3109217437617016
+=====================================
+Regla: frozenset({'Terminator', 'Tomb Rider'})
+Soporte: 0.01032171581769437
+Confianza: 0.36492890995260663
+Lift: 2.0861070254762035
+=====================================
+Regla: frozenset({'Jumanji', 'Get Out', 'Ninja Turtles'})
+Soporte: 0.010187667560321715
+Confianza: 0.5066666666666666
+Lift: 2.1163120567375886
+=====================================
+Regla: frozenset({'Moana', 'Intern', 'Ninja Turtles'})
+Soporte: 0.011126005361930294
+Confianza: 0.30970149253731344
+Lift: 2.37937500960696
+=====================================
+Regla: frozenset({'Jumanji', 'Moana', 'Ninja Turtles'})
+Soporte: 0.011126005361930294
+Confianza: 0.5030303030303029
+Lift: 2.1011232142251175
+=====================================
+Regla: frozenset({'Jumanji', 'Tomb Rider', 'Ninja Turtles'})
+Soporte: 0.017158176943699734
+Confianza: 0.4169381107491857
+Lift: 2.383416326581552
+=====================================
+Regla: frozenset({'Spiderman 3', 'Tomb Rider', 'Ninja Turtles'})
+Soporte: 0.01032171581769437
+Confianza: 0.3719806763285024
+Lift: 2.1264182723453087
+=====================================

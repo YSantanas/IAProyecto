@@ -1,0 +1,88 @@
+|--- Area <= 694.15
+|   |--- Compactness <= 0.12
+|   |   |--- Texture <= 19.61
+|   |   |   |--- Texture <= 18.12
+|   |   |   |   |--- class: Benign
+|   |   |   |--- Texture >  18.12
+|   |   |   |   |--- Texture <= 18.15
+|   |   |   |   |   |--- class: Malignant
+|   |   |   |   |--- Texture >  18.15
+|   |   |   |   |   |--- class: Benign
+|   |   |--- Texture >  19.61
+|   |   |   |--- Area <= 562.55
+|   |   |   |   |--- Area <= 501.35
+|   |   |   |   |   |--- class: Benign
+|   |   |   |   |--- Area >  501.35
+|   |   |   |   |   |--- Area <= 506.85
+|   |   |   |   |   |   |--- class: Malignant
+|   |   |   |   |   |--- Area >  506.85
+|   |   |   |   |   |   |--- Compactness <= 0.09
+|   |   |   |   |   |   |   |--- class: Benign
+|   |   |   |   |   |   |--- Compactness >  0.09
+|   |   |   |   |   |   |   |--- class: Malignant
+|   |   |   |--- Area >  562.55
+|   |   |   |   |--- Smoothness <= 0.10
+|   |   |   |   |   |--- Area <= 572.90
+|   |   |   |   |   |   |--- class: Malignant
+|   |   |   |   |   |--- Area >  572.90
+|   |   |   |   |   |   |--- Symmetry <= 0.20
+|   |   |   |   |   |   |   |--- Area <= 583.75
+|   |   |   |   |   |   |   |   |--- Symmetry <= 0.16
+|   |   |   |   |   |   |   |   |   |--- class: Malignant
+|   |   |   |   |   |   |   |   |--- Symmetry >  0.16
+|   |   |   |   |   |   |   |   |   |--- class: Benign
+|   |   |   |   |   |   |   |--- Area >  583.75
+|   |   |   |   |   |   |   |   |--- class: Benign
+|   |   |   |   |   |   |--- Symmetry >  0.20
+|   |   |   |   |   |   |   |--- class: Malignant
+|   |   |   |   |--- Smoothness >  0.10
+|   |   |   |   |   |--- class: Malignant
+|   |--- Compactness >  0.12
+|   |   |--- Area <= 529.80
+|   |   |   |--- Compactness <= 0.17
+|   |   |   |   |--- Texture <= 25.65
+|   |   |   |   |   |--- Texture <= 21.06
+|   |   |   |   |   |   |--- class: Benign
+|   |   |   |   |   |--- Texture >  21.06
+|   |   |   |   |   |   |--- FractalDimension <= 0.07
+|   |   |   |   |   |   |   |--- class: Malignant
+|   |   |   |   |   |   |--- FractalDimension >  0.07
+|   |   |   |   |   |   |   |--- class: Benign
+|   |   |   |   |--- Texture >  25.65
+|   |   |   |   |   |--- class: Malignant
+|   |   |   |--- Compactness >  0.17
+|   |   |   |   |--- Texture <= 14.42
+|   |   |   |   |   |--- class: Benign
+|   |   |   |   |--- Texture >  14.42
+|   |   |   |   |   |--- class: Malignant
+|   |   |--- Area >  529.80
+|   |   |   |--- Smoothness <= 0.09
+|   |   |   |   |--- class: Benign
+|   |   |   |--- Smoothness >  0.09
+|   |   |   |   |--- Texture <= 16.53
+|   |   |   |   |   |--- Symmetry <= 0.20
+|   |   |   |   |   |   |--- class: Malignant
+|   |   |   |   |   |--- Symmetry >  0.20
+|   |   |   |   |   |   |--- class: Benign
+|   |   |   |   |--- Texture >  16.53
+|   |   |   |   |   |--- class: Malignant
+|--- Area >  694.15
+|   |--- Texture <= 16.11
+|   |   |--- Compactness <= 0.11
+|   |   |   |--- class: Benign
+|   |   |--- Compactness >  0.11
+|   |   |   |--- Area <= 871.80
+|   |   |   |   |--- Area <= 725.80
+|   |   |   |   |   |--- class: Malignant
+|   |   |   |   |--- Area >  725.80
+|   |   |   |   |   |--- class: Benign
+|   |   |   |--- Area >  871.80
+|   |   |   |   |--- class: Malignant
+|   |--- Texture >  16.11
+|   |   |--- Symmetry <= 0.15
+|   |   |   |--- Symmetry <= 0.15
+|   |   |   |   |--- class: Malignant
+|   |   |   |--- Symmetry >  0.15
+|   |   |   |   |--- class: Benign
+|   |   |--- Symmetry >  0.15
+|   |   |   |--- class: Malignant
