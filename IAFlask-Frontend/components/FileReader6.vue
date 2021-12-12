@@ -133,6 +133,16 @@
     </b-row>
 
     <b-row v-if="graphImg">
+      <b-col cols="12">
+        <b-alert variant="success" :show="resultado != null"
+          ><span class="font-weight-bold">Resultado del nuevo pronostico: </span
+          >{{ resultado }}</b-alert
+        >
+      </b-col>
+    </b-row>
+
+
+    <b-row v-if="graphImg">
       <p class="font-weight-bold">- Reglas Obtenidas -</p>
     </b-row>
     <b-row v-if="graphImg">
@@ -155,6 +165,7 @@ export default {
       data: [],
       data2: [],
       data3: [],
+      resultado: [],
       loading: false,
       error: null,
       graphImg: null,
@@ -196,6 +207,7 @@ export default {
         this.data = JSON.parse(response.data)
         this.data2 = JSON.parse(response.data2)
         this.data3 = JSON.parse(response.data3)
+        this.resultado = JSON.parse(response.newpronostico3)
 
         this.graphImg = this.$axios.defaults.baseURL + '/' + response.graph
         this.graphImg2 = this.$axios.defaults.baseURL + '/' + response.graph2
@@ -222,6 +234,7 @@ export default {
       this.Compactness = null
       this.Symmetry = null
       this.FractalDimension = null
+      this.resultado = null
     },
   },
 }

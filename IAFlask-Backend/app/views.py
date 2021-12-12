@@ -1508,12 +1508,14 @@ def read_csv6():
                                  'Compactness': [Compacidad],
                                  'Symmetry': [Simetria],
                                  'FractalDimension': [DimensionF]})
-        PronosticoAD.predict(AreaTumorID1)
+        
 
+        resultadoArbol1= "".join(map(str, PronosticoAD.predict(AreaTumorID1)))
 
+        
 
         # Retorna imagen en base64
-        return jsonify({'status': 'success', 'data': json_data11, 'data2': json_data12,'data3': json_data13,'graph':new_name11,'graph2':imgroja, 'imgcalor': calor,'arbol2':arbol2})
+        return jsonify({'status': 'success', 'data': json_data11, 'data2': json_data12,'data3': json_data13,'graph':new_name11,'graph2':imgroja, 'imgcalor': calor,'arbol2':arbol2,'newpronostico3':resultadoArbol1})
 
     return jsonify({'status': 'error', 'message': 'Error al leer el archivo'})
 
@@ -1543,8 +1545,6 @@ def read_csv7():
         
         DimensionFC= float(request.form['FractalDimension'])
         
-        flask_file = request.files['file']
-
 
         if not flask_file.filename.endswith('.csv'):
             return make_response(jsonify({'message': 'Seleccione un archivo CSV'}), 400)
@@ -1756,29 +1756,17 @@ def read_csv7():
 #________________________TEXTOFIN_________________
 
 
-# #### **7) Nuevas clasificaciones**
 
-# #Paciente P-842302 (1) -Tumor Maligno-
-
-
-
-        PacienteID1 = pd.DataFrame({'Texture': [TexturaC],
-                                  'Area': [PerimetroC],
-                                 'Smoothness': [SuavidaC],
-                                  'Compactness': [CompacidadC],
-                                  'Symmetry': [SimetriaC],
-                                'FractalDimension': [DimensionFC]})
-        ClasificacionAD.predict(PacienteID1)
-
-# # #Paciente P-92751 (569) -Tumor Benigno-
-#         PacienteID2 = pd.DataFrame({'Texture': [TexturaC],
-#                                    'Area': [PerimetroC],
-#                                  'Smoothness': [SuavidaC],
-#                                   'Compactness': [CompacidadC],
-#                                   'Symmetry': [SimetriaC],
-#                                    'FractalDimension': [DimensionFC]})
-#         ClasificacionAD.predict(PacienteID2)
-
+#Paciente saber si esta M y B
+        
+        PacienteID2 = pd.DataFrame({'Texture': [TexturaC], 
+                            'Area': [PerimetroC], 
+                            'Smoothness': [SuavidaC], 
+                            'Compactness': [CompacidadC], 
+                            'Symmetry': [SimetriaC], 
+                            'FractalDimension': [DimensionFC]})
+        resultadoArbol002= "".join(map(str, ClasificacionAD.predict(PacienteID2)))
+        
         # Retorna imagen en base64
         return jsonify({'status': 'success', 'data': json_data12,
                         'data2': json_data13,'data3': json_data14,

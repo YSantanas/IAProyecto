@@ -243,6 +243,7 @@ export default {
         this.data9 = JSON.parse(response.data9)
         this.data10 = JSON.parse(response.data10)
 
+
         this.graphImg = this.$axios.defaults.baseURL + '/' + response.graph
         this.graphImg3 = this.$axios.defaults.baseURL + '/' + response.imgcalor
       } catch (error) {
@@ -268,6 +269,7 @@ export default {
       this.Compactness = null
       this.Symmetry = null
       this.FractalDimension = null
+
     },
   },
 }
