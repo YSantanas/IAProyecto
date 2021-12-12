@@ -25,7 +25,7 @@
             :step="0.01"
             placeholder="Porcentaje"
           />
-          <p class="p-3 mb-2 bg-dark text-white text-center">
+          <p class="p-3 mb-2 bg-dark text-white text-center mx-auto">
             Datos para nuevos pronosticos
           </p>
           <b-form-input v-model="Texture" type="number" placeholder="Textura" />

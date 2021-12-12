@@ -11,7 +11,7 @@
     <b-row class="my-4" align-h="center">
       <b-col cols="3">
         <b-form-file ref="file" v-model="file" />
-        <p class="p-3 mb-2 bg-dark text-white">Datos para nuevos pronosticos</p>
+        <p class="p-3 mb-2 bg-dark text-white text-center">Datos para nuevos pronosticos</p>
         <b-form-input
           v-model="profundidad1"
           type="number"

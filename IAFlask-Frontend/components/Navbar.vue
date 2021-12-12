@@ -22,7 +22,7 @@
             >Cluster Particional</b-dropdown-item
           >
           <b-dropdown-item href="/regresionLineal"
-            >Regresión Lineal Multiple</b-dropdown-item
+            >Pronostico con RL</b-dropdown-item
           >
           <b-dropdown-item href="/ClasificacionRL"
             >Clasificación con RL</b-dropdown-item

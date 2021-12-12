@@ -85,7 +85,7 @@
       </b-col>
     </b-row>
 
-    <iframe
+    <iframe v-if="graphImg"
       src="http://localhost:5000/static/documentos/generados/apriori.pdf"
       width="600"
       height="780"

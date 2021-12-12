@@ -73,7 +73,7 @@
       </template>
     </b-table>
     <b-alert class="w-100" :show="dataChebyshev.length > 0">
-      <span class="font-weight-bold">Distancia:</span> {{ distChebyshev }}
+      <span class="font-weight-bold">Distancia Chebyshev:</span> {{ distChebyshev }}
     </b-alert>
     <b-table striped hover :items="dataEuclidiana" :busy="loading" responsive>
       <template #table-busy>
@@ -84,7 +84,7 @@
       </template>
     </b-table>
     <b-alert class="w-100" :show="dataEuclidiana.length > 0">
-      <span class="font-weight-bold">Distancia:</span> {{ distEuclidiana }}
+      <span class="font-weight-bold">Distancia Euclidiana:</span> {{ distEuclidiana }}
     </b-alert>
     <b-table striped hover :items="dataManhattan" :busy="loading" responsive>
       <template #table-busy>
@@ -95,7 +95,7 @@
       </template>
     </b-table>
     <b-alert class="w-100" :show="dataManhattan.length > 0">
-      <span class="font-weight-bold">Distancia:</span> {{ distManhattan }}
+      <span class="font-weight-bold">Distancia Manhattan:</span> {{ distManhattan }}
     </b-alert>
     <b-table striped hover :items="dataMinkowski" :busy="loading" responsive>
       <template #table-busy>
@@ -106,7 +106,7 @@
       </template>
     </b-table>
     <b-alert class="w-100" :show="dataMinkowski.length > 0">
-      <span class="font-weight-bold">Distancia:</span> {{ distMinkowski }}
+      <span class="font-weight-bold">Distancia Minkowski:</span> {{ distMinkowski }}
     </b-alert>
   </b-container>
 </template>
