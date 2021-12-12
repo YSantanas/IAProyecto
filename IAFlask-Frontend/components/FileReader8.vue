@@ -25,7 +25,9 @@
             :step="0.01"
             placeholder="Porcentaje"
           />
-
+          <p class="p-3 mb-2 bg-dark text-white text-center">
+            Datos para nuevos pronosticos
+          </p>
           <b-form-input v-model="Texture" type="number" placeholder="Textura" />
           <b-form-input
             v-model="Perimeter"
@@ -226,18 +228,16 @@
 
     <b-row v-if="graphImg">
       <b-col cols="12">
-        <b-alert variant="danger" :show="resultado==0"
+        <b-alert variant="danger" :show="resultado == 0"
           ><span class="font-weight-bold">Resultado del nuevo pronostico: </span
           >MALIGNO</b-alert
         >
-        <b-alert variant="success" :show="resultado==1"
+        <b-alert variant="success" :show="resultado == 1"
           ><span class="font-weight-bold">Resultado del nuevo pronostico: </span
           >Benigno</b-alert
         >
-
       </b-col>
     </b-row>
-
   </b-container>
 </template>
 
@@ -345,7 +345,7 @@ export default {
       this.Compactness = null
       this.Symmetry = null
       this.FractalDimension = null
-      this.resultado= null 
+      this.resultado = null
     },
   },
 }
